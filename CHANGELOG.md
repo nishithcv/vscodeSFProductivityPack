@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+* GitLens
+* Salesforce code snippet
+* Salesforce Flow visualizer
