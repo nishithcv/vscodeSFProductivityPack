@@ -1,5 +1,11 @@
 # sf-pack-nishi README
 
+This Extension contains below extensions:
+
+GitLens - To work faster with git
+Salesforce code snippet - type scs and the see the suggestions appear one by one, very useful when working from scratch
+Salesforce Flow visualizer - helps you see the flow without leaving vs code.
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:

@@ -2,7 +2,7 @@
   "name": "sf-pack-nishi",
   "displayName": "\"SF Extension Pack - Nishith\"",
   "description": "Salesforce Package Extensions to be installed on top of Salesforce Official Extension. Helps you work faster.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "NishithCheemakurthi",
   "icon": "images/logo.jpg",
   "engines": {
