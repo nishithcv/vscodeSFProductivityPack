@@ -1,8 +1,8 @@
 {
   "name": "sf-productivity-pack",
   "displayName": "SF Productivity Extension Pack",
-  "description": "Salesforce Package Extensions to be installed on top of Salesforce Official Extension. Helps you work faster.",
-  "version": "1.0.0",
+  "description": "Salesforce Productivity Extension Pack is a one stop solution for all your Salesforce Tools required to run in VS Code.",
+  "version": "1.0.2",
   "publisher": "NishithCheemakurthi",
   "icon": "images/logo.jpg",
   "engines": {
@@ -12,6 +12,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "salesforce.salesforcedx-vscode",
     "eamodio.gitlens",
     "helpers.salesforce-code-snippets",
     "toddhalfpenny.sfflowvisualiser",

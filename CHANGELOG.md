@@ -1,12 +1,13 @@
 # Change Log
 
-All notable changes to the "sf-pack-nishi" extension pack will be documented in this file.
+## [Release 1.0.2]
+* Included official salesforce extension pack
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [Release 1.0.0]
 
 - Initial release
 * GitLens
 * Salesforce code snippet
 * Salesforce Flow visualizer
+* Peacock
+* Better Comments
