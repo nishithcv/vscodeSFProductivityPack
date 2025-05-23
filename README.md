@@ -1,13 +1,14 @@
 # README
 
-This Extension contains below extensions:
+**This Extension contains below extensions:**
 
-* Salesforce Extension Pack - Contains official Salesforce Extensions.
-* GitLens - To work faster with git
-* Salesforce code snippet - type scs and the see the suggestions appear one by one, very useful when working from scratch
-* Salesforce Flow visualizer - helps you see the flow without leaving vs code.
-* Peacock - Multiple instances are colour coded, makes identification easier (**`Note:`** Extension related Changes will be tracked in git).
-* Better Comments - Comments Differentiated visually to identify different types of comments.
+* **Salesforce Extension Pack** - Contains official Salesforce Extensions.
+* **GitLens** - Work faster with GIT, as the extension mentions, super charger your git experience!
+* **Salesforce code snippet**- Type scs and the see the code shortcut suggestions, very useful when working from scratch.
+* **Salesforce Flow visualizer** - Helps you see the flow without leaving vscode.
+* **Peacock** - Multiple instances are colour coded, makes identification easier (**`Note:`** Extension related Changes will be tracked in git, update your .gitignore/exlcude file).
+* **Better Comments** - Comments differentiated visually to identify different types of comments.
+* **GitHub Pull Requests** - Review your github pull requests without leaving your vscode!!!
 
 ## Working with Markdown
 

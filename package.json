@@ -17,6 +17,7 @@
     "helpers.salesforce-code-snippets",
     "toddhalfpenny.sfflowvisualiser",
     "johnpapa.vscode-peacock",
-    "aaron-bond.better-comments"
+    "aaron-bond.better-comments",
+    "github.vscode-pull-request-github"
   ]
 }
