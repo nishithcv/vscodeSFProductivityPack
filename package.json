@@ -2,7 +2,7 @@
   "name": "sf-productivity-pack",
   "displayName": "SF Productivity Extension Pack",
   "description": "Salesforce Productivity Extension Pack is a one stop solution for all your Salesforce Tools required to run in VS Code.",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "publisher": "NishithCheemakurthi",
   "icon": "images/logo.jpg",
   "engines": {
