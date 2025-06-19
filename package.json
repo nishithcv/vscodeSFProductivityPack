@@ -18,6 +18,7 @@
     "toddhalfpenny.sfflowvisualiser",
     "johnpapa.vscode-peacock",
     "aaron-bond.better-comments",
-    "github.vscode-pull-request-github"
-  ]
+    "github.vscode-pull-request-github",
+    "nicolasvuillamy.vscode-sfdx-hardis"
+    ]
 }

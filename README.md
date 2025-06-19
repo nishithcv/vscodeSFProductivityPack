@@ -9,6 +9,7 @@
 * **Peacock** - Multiple instances are colour coded, makes identification easier (**`Note:`** Extension related Changes will be tracked in git, update your .gitignore/exlcude file).
 * **Better Comments** - Comments differentiated visually to identify different types of comments.
 * **GitHub Pull Requests** - Review your github pull requests without leaving your vscode!!!
+* **SFDX Hardis** - Too many tools in one place. (**`Note:`** You probably need to install the sf cli plugin to get the best of this extension).
 
 ## Working with markdown
 
